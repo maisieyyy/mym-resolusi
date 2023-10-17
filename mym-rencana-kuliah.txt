@@ -7,3 +7,4 @@ RENCANA KULIAH
 - Magang
   *MSIB
   *Mandiri
+- Memiliki banyak relasi
